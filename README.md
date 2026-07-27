@@ -2,7 +2,6 @@
 
 I'm a software developer focused on building automation workflows, real-time networking systems, and exploring backend engineering.
 
-- 🔭 I’m currently working on my [VS Code Terminal Sound Extension](https://github.com/hrsl73/terminal-sound).
 - 🌱 I’m currently deep-diving into databases, sockets, and web architecture at my [Learning Hub](https://github.com/hrsl73/Learning-hub).
 - 💬 Ask me about: TypeScript, Node.js, Python, and WebSockets.
 
