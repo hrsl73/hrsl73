@@ -40,8 +40,8 @@ I'm a software developer focused on building automation workflows, real-time net
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrsl73&show_icons=true&theme=tokyonight" alt="Harshil's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrsl73&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-seven-psi-34.vercel.app/api?username=hrsl73&show_icons=true&theme=tokyonight&count_private=true" alt="Harshil's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-seven-psi-34.vercel.app/api/top-langs/?username=hrsl73&layout=compact&theme=tokyonight&count_private=true" alt="Top Langs" height="150" />
 </p>
 
 <!--START_SECTION:activity-->
